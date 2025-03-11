@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif)]
 <h1 align="center">Hi 👋, I'm Maale Saivenkat Goud</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate coder</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivenkatmaale&label=Profile%20views&color=0e75b6&style=flat" alt="saivenkatmaale" /> </p>
